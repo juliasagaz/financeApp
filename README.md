@@ -1,6 +1,0 @@
-![image](https://github.com/EduardoCostadaSilva/financeApp/assets/136382865/0bfce134-ba2e-4014-9d16-b54164fdec1c)
-![image](https://github.com/EduardoCostadaSilva/financeApp/assets/136382865/0c9c0a5e-5cb8-42f6-b917-7d22c09ed45c)
-![image](https://github.com/EduardoCostadaSilva/financeApp/assets/136382865/522175e1-46ab-4564-86f2-628ebde0f3d2)
-![image](https://github.com/EduardoCostadaSilva/financeApp/assets/136382865/b182b51d-9aeb-4484-85d9-26fc9aaa0a27)
-![image](https://github.com/EduardoCostadaSilva/financeApp/assets/136382865/d75a9e0e-3676-4d7c-b86b-22f103e3d6e5)
-![image](https://github.com/EduardoCostadaSilva/financeApp/assets/136382865/795a1864-b520-4f4c-9c11-c37a075bfcb6)

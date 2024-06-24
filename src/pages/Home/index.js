@@ -30,7 +30,7 @@ const list = [
 export default function Home({navigation}) {
     return (
         <View style={styles.container}>
-            <Header name="Eduardo C." />
+            <Header name="Julia" />
             <Balance saldo="1.000.000,00" gastos="-527,00" />
             <Actions />
             <Text style={styles.title}>Últimas movimentações</Text>
